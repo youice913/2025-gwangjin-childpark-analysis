@@ -12,27 +12,11 @@
 - **목표:** 광진구 내 어린이공원의 입지 불균형 해소 및 신규 설치 후보지 제안
 - **기간:** 2025년 3월 ~ 2025년 4월
 - **도구:** Python (Pandas, Geopandas, Matplotlib), Jupyter Notebook
-- **팀원:** youice913 외 2인
+- **팀원:** 이수연, 이은지, 유수연
 
 ---
 
 ## 📁 폴더 구조
-
-📁 children-park-analysis/
-├── README.md               # 프로젝트 설명 파일
-├── data/                   # 데이터 폴더
-│   ├── raw/                # 원본 데이터 (CSV, XLSX, GeoJSON 등)
-│   └── processed/          # 전처리 완료된 데이터
-├── notebooks/              # Jupyter 노트북 파일
-│   └── main_analysis.ipynb # 주요 분석 진행 파일
-├── src/                    # 파이썬 코드 모듈 (함수, AHP 계산 등)
-│   └── utils.py
-├── results/                # 결과물 저장 폴더
-│   ├── maps/               # 시각화 지도 (HTML, PNG 등)
-│   └── charts/             # 그래프, 분석 이미지
-├── references/             # 공고문, 가이드라인, 기준표 등 참고자료
-└── report/                 # 최종 제출 보고서, 발표자료 등
-
 
 ---
 
